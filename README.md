@@ -1,1 +1,1 @@
-# BCS_DEV_CLASS
+# BCS_CLASS
